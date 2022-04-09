@@ -1,0 +1,42 @@
+
+div{
+	
+width: 1000px;
+margin-left: auto;
+margin-right: auto;
+background: #fafafa;
+padding: 40px;
+text-align: center;
+}
+h1{
+	color: #14ca72; 
+	font-size: 65px; 
+	margin: 0;
+}
+span{
+	font-style: italic; 
+	text-transform: uppercase;
+	text-decoration: underline;
+}
+p{
+	font-size: 25px;
+}
+
+a {
+    background: #14ca72;
+    color: white;
+    font-size: 20px;
+    text-transform: capitalize;
+    padding: 10px 40px;
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+img{
+	width: 300px; 
+	display: block;
+	margin: auto;
+	border-radius: 50%;
+	height: 300px;
+	object-fit: cover;
+}
